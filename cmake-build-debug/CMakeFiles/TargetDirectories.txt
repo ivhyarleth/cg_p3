@@ -1,0 +1,3 @@
+C:/Users/arlet/OneDrive/Escritorio/cg_p3/cmake-build-debug/CMakeFiles/E3_Objetos.dir
+C:/Users/arlet/OneDrive/Escritorio/cg_p3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arlet/OneDrive/Escritorio/cg_p3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
